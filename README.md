@@ -2,7 +2,7 @@
 Um aplicativo simples feito com Python e ttkbootstrap para ajudar você a controlar receitas e despesas, visualizar o saldo atual e manter um histórico de transações.
 
 🖼️ Interface
-![screenshot opcional aqui, se quiser adicionar depois com imagem]
+!
 
 📦 Funcionalidades
 Adicionar receitas e despesas
